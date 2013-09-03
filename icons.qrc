@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/exec.png</file>
+        <file>resources/gen.png</file>
+        <file>resources/load.png</file>
+        <file>resources/ico.png</file>
+    </qresource>
+</RCC>

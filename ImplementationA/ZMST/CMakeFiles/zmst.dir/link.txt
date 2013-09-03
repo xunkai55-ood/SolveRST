@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/zmst.dir/main.o CMakeFiles/zmst.dir/ZMST.o CMakeFiles/zmst.dir/__/SMST/PointsGenerator.o CMakeFiles/zmst.dir/__/SMST/SMST.o  -o ../bin/zmst -rdynamic 
